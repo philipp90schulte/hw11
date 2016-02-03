@@ -1,3 +1,15 @@
+/**
+ * Title: HW 11 - SG
+ * Author: Philipp Schulte
+ * Date: 02.02.2016
+ * 
+ * Description:
+ * Solve the SG like the method of lab 11.
+ * Solvinf linear equitation system with a forward substitution and get result after a following backward substitution.
+ * 
+ * 
+ */
+
 #include <iostream>
 #include <fstream>
 #include <complex>
